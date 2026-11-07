@@ -1,0 +1,17 @@
+# build output
+live-build-config/
+*.iso
+*.img
+*.log
+*.key
+*.gpg
+
+# secrets and private tools
+secrets/
+private/
+.env
+.DS_Store
+
+# waiting for written approval to publish the emblem
+docs/mockups/
+config/branding/efp_logo_source.png

@@ -1,0 +1,19 @@
+# VERIFY each name with: apt-cache policy <pkg>   (document substitutes in docs/DECISIONS.md)
+autopsy
+guymager
+binwalk
+john
+hashcat
+libimage-exiftool-perl
+pdf-parser
+mat2
+steghide
+maltego
+theharvester
+spiderfoot
+sherlock
+# phoneinfoga   # may not be in repo - verify
+# finalrecon    # may not be in repo - verify
+vlc
+audacity
+onionshare

@@ -1,0 +1,9 @@
+tor
+nftables
+apparmor
+apparmor-utils
+libpam-google-authenticator
+cryptsetup
+cherrytree
+fonts-noto-core
+fonts-noto-ui-core

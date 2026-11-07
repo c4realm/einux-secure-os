@@ -1,0 +1,10 @@
+# VERIFY each name with: apt-cache policy <pkg>
+nmap
+metasploit-framework
+wireshark
+bettercap
+aircrack-ng
+macchanger
+onionshare
+# AnonSurf is NOT in official Kali repos (third-party). Do not install unreviewed.
+# Preferred: own tor + nftables transparent-proxy config in config/hardening/

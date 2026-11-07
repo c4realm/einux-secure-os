@@ -1,0 +1,13 @@
+# Test checklist (tick per profile)
+- [ ] ISO boots in VM (BIOS + UEFI)
+- [ ] Branding: splash, GRUB, login, wallpaper, icons
+- [ ] Amharic welcome renders (font present), text approved by reviewer
+- [ ] Every tool in profile launches
+- [ ] No tool outside profile installed
+- [ ] nftables default-deny verified (scan from another VM)
+- [ ] 2FA: correct code OK, wrong code rejected, replayed code rejected
+- [ ] Lockout after N failures
+- [ ] Panic wipe on LOOP-DEVICE image: data unrecoverable, dry-run default works
+- [ ] Panic wipe on physical test laptop (supervisor present)
+- [ ] apt update uses signed repos only
+- [ ] Idle RAM / disk size recorded per profile
